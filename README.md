@@ -1,4 +1,4 @@
-# Web Scraping and Data AnalysisWeb Scraping and Data Analysis
+# Web Scraping and Data Analysis
 
 This project is designed to scrape job vacancy data from [jobs.dou.ua](https://jobs.dou.ua/) using **Scrapy** and **Selenium**, analyze the data using **Pandas**, and visualize the results with **Matplotlib**.
 
