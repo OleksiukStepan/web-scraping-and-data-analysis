@@ -1,0 +1,138 @@
+django
+flask
+fastapi
+pyramid
+tornado
+bottle
+celery
+sqlalchemy
+peewee
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+keras
+pytorch
+theano
+spacy
+nltk
+openai
+transformers
+machine learning
+deep learning
+natural language processing
+nlp
+computer vision
+opencv
+data science
+data analysis
+sql
+postgresql
+mysql
+sqlite
+mongodb
+redis
+elasticsearch
+cassandra
+bigquery
+hive
+snowflake
+aws
+amazon web services
+s3
+lambda
+azure
+google cloud platform
+gcp
+heroku
+docker
+kubernetes
+jenkins
+github actions
+circleci
+gitlab ci
+travis ci
+git
+github
+gitlab
+bitbucket
+api development
+rest
+graphql
+grpc
+microservices
+scrapy
+beautifulsoup
+selenium
+requests
+asyncio
+multiprocessing
+rabbitmq
+kafka
+redis queue
+apache spark
+hadoop
+pyspark
+luigi
+airflow
+mlflow
+jupyter notebooks
+google colab
+power bi
+tableau
+html
+css
+javascript
+typescript
+react
+vue
+angular
+bootstrap
+tailwind css
+sass
+eslint
+webpack
+babel
+json
+xml
+yaml
+parquet
+csv
+logstash
+prometheus
+grafana
+new relic
+datadog
+splunk
+linux
+bash
+shell scripting
+powershell
+devops
+ci/cd
+monitoring
+logging
+testing
+unit testing
+pytest
+unittest
+mock
+robot framework
+cucumber
+bdd
+tdd
+cloud computing
+serverless
+edge computing
+big data
+data engineering
+etl
+data warehousing
+api integration
+oauth
+jwt
+ssl/tls
